@@ -1,0 +1,23 @@
+{
+  "name": "@zhangtuo/howtonpm",
+  "version": "1.2.0",
+  "description": "this is the test of tutorial of how-to-npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://.DocumentRevisions-V100/"
+  },
+  "author": "zhangtuo",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "tutorial",
+    "nodejs"
+  ]
+}
